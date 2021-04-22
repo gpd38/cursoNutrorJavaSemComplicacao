@@ -1,3 +1,0 @@
-# Aula6
-
-### Undefined
