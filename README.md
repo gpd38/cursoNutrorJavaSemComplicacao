@@ -1,4 +1,5 @@
 # Curso Nutror Java sem Complicacao
+
 Neste curso iremos abordar conhecimento sobre programação, lógica de programação e Orientação a Objeto.
 
 <p align="center">
@@ -16,7 +17,7 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 ### Aulas
 
 * [Aula1 - Configuração de ambiente e projeto](https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/aulas/aula1.md)
-* [Aula2 - Hello world, get e stters](https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/aulas/aula2.md)
+* [Aula2 - Hello world, get e setters](https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/aulas/aula2.md)
 * [Aula3 - Classes, métodos e testes unitários](https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/aulas/aula3.md) 
 * [Aula4 - Construtores e sobre carga](https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/aulas/aula4.md)
 * [Aula5 - Lombok e testes unitários](https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/aulas/aula5.md)
@@ -28,21 +29,20 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 	<tr>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/adamviniciusqa/">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/img/adam.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/img/adam.png" width="100px;" alt="Adam Vinicius Cezar Luchini"/>
 				<br /><b>Instrutor<br>Adam Vinicius Cezar Luchini</b>
 			</a>
 			<br />
 		</td>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/gustavopereiradias">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/img/gustavo.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorJavaSemComplicacao/blob/main/img/gustavo.png" width="100px;" alt="Gustavo Pereira Dias"/>
 				<br /><b>Aluno<br>Gustavo Pereira Dias</b>
 			</a>
 			<br />
 		</td>
 	</tr>
 </table>
-
 
 ### Licença
 
